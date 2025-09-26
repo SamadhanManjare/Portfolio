@@ -28,22 +28,17 @@ html{
 }
 body{
 	font-family: 'Poppins', sans-serif;
-    font-size: 15px;
-    line-height: 26px;
-    font-weight: 400;
-    letter-spacing: 0.5px;
-    color: #333333;
-    overflow-x: hidden;
+	font-size: 15px;
+	line-height: 26px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+	background-color: #000;
+	color: #fff;
+	overflow-x: hidden;
 }
 h1,
-h2,
-h3,
-h4,
-h5,
-h6{
-	color: #333333;
+	color: #fff;
 	font-weight: 600;
-}
 .fw_300{
 	font-weight: 300;
 }
